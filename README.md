@@ -22,7 +22,7 @@ This is a full-stack personal portfolio website built with React, TypeScript, an
 ## Setup and Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/portfolio-website.git
+   git clone https://github.com/Sharma12321/SreeHari-Portfolio.git
    cd SreeHari-Portfolio
    ```
 
@@ -50,15 +50,15 @@ This is a full-stack personal portfolio website built with React, TypeScript, an
 This project can be deployed to various platforms. Make sure to set up the necessary environment variables and database configurations for your production environment.
 
 ## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/portfolio-website/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/Sharma12321/SreeHari-Portfolio/issues) if you want to contribute.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Contact
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [sreeharisharma@outlook.com](mailto:sreeharisharma@outlook.com)
 
-Project Link: [https://github.com/yourusername/portfolio-website](https://github.com/yourusername/portfolio-website)
+Project Link: [https://github.com/Sharma12321/SreeHari-Portfolio](https://github.com/Sharma12321/SreeHari-Portfolio)
 
 ## Acknowledgements
 - [React](https://reactjs.org/)
