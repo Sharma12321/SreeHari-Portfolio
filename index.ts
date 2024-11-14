@@ -1042,7 +1042,7 @@ ${escapeHtml(data.message)}
       let telegramResponse;
       try {
         telegramResponse = await fetch(
-          `https://api.telegram.org/bot6371517928:AAHdut4c9BMJG7ovw8T6RWWRSP9oCDphcG0/sendMessage`,
+          `https://api.telegram.org/botTELEGRAM_BOT_TOKEN/sendMessage`,
           {
             method: "POST",
             headers: { "Content-Type": "application/json" },
